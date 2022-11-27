@@ -1,0 +1,52 @@
+[
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál es el animal más grande del mundo?",
+    "respuesta": "Ballena Azul",
+    "incorrecta1": "Unicornio Mostaza",
+    "incorrecta2": "Cobaya Celeste",
+    "objectFit": "cover"
+  },
+
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuántos litros de sangre tiene una persona adulta?",
+    "respuesta": "Tiene entre 4 y 6 litros",
+    "incorrecta1": "Tiene entre 2 y 4 litros",
+    "incorrecta2": "Tiene 10 litros",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Quién es el autor de la frase \"Pienso, luego existo\"?",
+    "respuesta": "Descartes",
+    "incorrecta1": "Platón",
+    "incorrecta2": "Galileo Galilei",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál es el grupo de palabras escritas correctamente?",
+    "respuesta": "Metamorfosis, extranjero, diversidad, equilibrio",
+    "incorrecta1": "Metamorfosis, extrangero, dibersidad, equilibrio",
+    "incorrecta2": "Metaformosis, estranjero, diversidad, ekilibrio",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál es el país más grande y el más pequeño del mundo?",
+    "respuesta": "Rusia y Vaticano",
+    "incorrecta1": "China y Nauru",
+    "incorrecta2": "Canadá y Mónaco",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál es el libro más vendido en el mundo después de la Biblia?",
+    "respuesta": "El Señor de los Anillos",
+    "incorrecta1": "Don Quijote de la Mancha",
+    "incorrecta2": "El Principito",
+    "objectFit": "cover"
+  }
+
+]
