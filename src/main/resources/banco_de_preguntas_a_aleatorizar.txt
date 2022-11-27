@@ -1,0 +1,80 @@
+¿Cuál es el animal más grande del mundo?
+NO Cobaya Celeste
+SI Ballena Azul
+NO Unicornio Mostaza
+¿Cuántos litros de sangre tiene una persona adulta?
+NO Tiene entre 2 y 4 litros
+SI Tiene entre 4 y 6 litros
+NO Tiene 10 litros
+¿Quién es el autor de la frase "Pienso, luego existo"?
+NO Platón
+NO Galileo Galilei
+SI Descartes
+¿Cuál es el país más grande y el más pequeño del mundo?
+SI Rusia y Vaticano
+NO China y Nauru
+NO Canadá y Mónaco
+¿Cuál es el grupo de palabras escritas correctamente?
+NO Metaformosis, estranjero, diversidad, ekilibrio
+NO Metamorfosis, extrangero, dibersidad, equilibrio
+SI Metamorfosis, extranjero, diversidad, equilibrio
+¿Cuál es el libro más vendido en el mundo después de la Biblia?
+NO El Señor de los Anillos
+SI Don Quijote de la Mancha
+NO El Principito
+¿Cuántos decimales tiene el número pi π?
+NO Dos
+NO Cien
+SI Infinitos
+La sal común está formada por dos elementos, ¿cuáles son?
+NO Sodio y potasio
+SI Sodio y cloro
+NO Sodio y carbono
+¿Cuántos jugadores por equipo participan en un partido de voleibol?
+NO 4 jugadores
+NO 5 jugadores
+SI 6 jugadores
+¿Cuáles son los representantes más destacados de la literatura renacentista?
+SI Miguel de Cervantes, William Shakespeare, Luis de Camões.
+NO Leonardo da Vinci, Miguel Angel Buonarroti, Sandro Boticelli
+NO Caravaggio, Bernini, Borromini
+¿Quién pintó la obra "Guernica"?
+NO Paul Cézanne
+SI Pablo Picasso
+NO Diego Rivera
+¿Cuánto tiempo tarda la luz del Sol en llegar a la Tierra?
+NO 12 horas
+SI 8 minutos
+NO 8 segundos
+¿Cuál es la traducción correcta de la frase "There is a green carpet at the exit of the library"?
+NO Hay una verde carpeta en la salida de la librería
+NO Ahí es una verde carpeta en el éxito de la librería
+SI Hay una alfombra verde a la salida de la biblioteca
+¿Cuál es la nacionalidad de Jorge Mario Bergoglio?
+NO Española
+NO Mexicana
+SI Argentina
+¿Cuál es la altura de la red de voleibol en los juegos masculino y femenino?
+NO 1,8 m y 1,5 m
+NO 2,45 m y 2,15 m
+SI 2,43 m y 2,24 m
+¿En qué orden se presentaron los modelos atómicos?
+NO Thomson, Dalton, Rutherford, Bohr
+SI Dalton, Thomson, Rutherford, cuántico
+NO Bohr, Rutherford, cuántico, Einstein
+¿En qué periodo de la prehistoria fue descubierto el fuego?
+NO Neolítico
+SI Paleolítico
+NO Edad de los metales
+¿A quién se le atribuye la frase "Solo sé que no sé nada"?
+NO Sófocles
+NO Salomón
+SI Sócrates
+¿Cuál es la montaña más alta del continente americano?
+NO Monte Everest
+SI Aconcagua
+NO Pico Neblina
+¿Cuál es la velocidad de la luz?
+NO 150 000 000 metros por segundo
+NO 199 792 458 metros por segundo
+SI 299 792 458 metros por segundo
